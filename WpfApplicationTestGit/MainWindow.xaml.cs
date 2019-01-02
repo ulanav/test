@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-// test wpf draw
+// test wpf draw empty
 namespace WpfApplicationTestGit
 {
     /// <summary>
