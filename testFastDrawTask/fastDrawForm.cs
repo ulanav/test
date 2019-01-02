@@ -15,7 +15,7 @@ using System.Runtime.InteropServices;
 namespace testFastDraw
 {
 
-    // test receive and fast draw 
+    // test receive and fast draw ...
     public partial class fastDrawForm : Form
     {
         Image updateImg;
