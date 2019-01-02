@@ -15,7 +15,7 @@ using System.Runtime.InteropServices;
 namespace testFastDraw
 {
 
-    // test receive and fast draw using udp packets
+    // test receive and fast draw using udp packets from home
     public partial class fastDrawForm : Form
     {
         Image updateImg;
