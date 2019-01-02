@@ -11,7 +11,7 @@ using Multimedia;
 using Aspose.Imaging;
 using System.Runtime.InteropServices;
 
-// test receive and fast draw 
+
 namespace testFastDraw
 {
     public partial class fastDrawForm : Form
